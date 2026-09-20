@@ -1,0 +1,54 @@
+.todo-container {
+    gap: 16px;
+    margin: 5px;
+    padding: 8px;
+    background-color: bisque;
+}
+
+
+#inputfeild{
+    display: flex;
+    gap: 12px;
+}
+
+#taskInput{
+    border-radius: 5px;
+    color: black;
+}
+#addButton{
+    border-radius: 5px;
+    color: khaki;
+    background-color: black;
+}
+
+.buttons {
+    border-radius: 5px;
+    color: beige;
+    background-color: black;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.listItems {
+    background-color: beige;
+    display: flex;
+    gap: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 8px;
+    padding: 4px;
+}
+
+.listItems2 {
+    background-color: yellowgreen;
+    color: black;
+    display: flex;
+    gap: 50px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin: 8px;
+    padding: 4px;
+}
